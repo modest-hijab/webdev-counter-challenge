@@ -31,7 +31,8 @@ function renderUpdatedCount() {
 
 incrementBtn.addEventListener("click", function () {
     // Write code below this line
-
+    incrementCount();
+ 
 
 
     // STOP HERE
